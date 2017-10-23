@@ -13,9 +13,9 @@ The [LCA.pynb](https://github.com/SJCGIS/lca-methodology/blob/master/LCA.ipynb) 
 
 Use the [Jupyter Installation Guide](http://jupyter.org/install.html) to install Jupyter on your computer.
 
-1. Download the ZIP file from the [Releases](http://github.com/sjcgis/lca-methodology) page and extract it to a folder on your computer.
+1. Download the [project ZIP file](https://github.com/SJCGIS/lca-methodology/archive/master.zip) and extract it to a folder on your computer.
 
-2. Open a Terminal (Mac/Linux) or Command Prompt (Windows) and change the directory (`cd`) to the lca-methodology folder on your comptuer. Example: `cd C:\Downloads\lca-methodology`.
+2. Open a Terminal (Mac/Linux) or Command Prompt (Windows) and change the directory (`cd`) to the lca-methodology-master folder on your computer. Example: `cd C:\Downloads\lca-methodology-master`.
 
 3. Create a new [conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) for the lca-methodology. Example: `conda create --name lca-methodology`.
 
@@ -25,7 +25,7 @@ Use the [Jupyter Installation Guide](http://jupyter.org/install.html) to install
 
 ## Run the analysis
 
-Be sure you've activated the environment you created above then enter `jupyter notebook` from a Terminal or Command Prompt window in the lca-methodology directory. This should open a webpage to the current directory. Choose the LCA.pynb file to open the analysis.
+Be sure you've activated the environment you created above then enter `jupyter notebook` from a Terminal or Command Prompt window in the lca-methodology-master directory. This should open a webpage to the current directory. Choose the LCA.pynb file to open the analysis.
 
 Run each step by holding Shift and pressing Enter or select "Run All Cells" from the Cells menu. Some cells may take a long time to complete. An asterisk (`*`) next to appears next to a cell that hasn't completed yet.
 
