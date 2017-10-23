@@ -11,17 +11,17 @@ The [LCA.pynb](https://github.com/SJCGIS/lca-methodology/blob/master/LCA.ipynb) 
 
 ## Install
 
-Use the [Jupyter Installation Guide](http://jupyter.org/install.html) to install Jupyter on your computer.
+1. Download and install [Anaconda](https://www.anaconda.com/download/) for Python version 3.6 or later.
 
-1. Download the [project ZIP file](https://github.com/SJCGIS/lca-methodology/archive/master.zip) and extract it to a folder on your computer.
+2. Download the [project ZIP file](https://github.com/SJCGIS/lca-methodology/archive/master.zip) and extract it to a folder on your computer.
 
-2. Open a Terminal (Mac/Linux) or Command Prompt (Windows) and change the directory (`cd`) to the lca-methodology-master folder on your computer. Example: `cd C:\Downloads\lca-methodology-master`.
+3. Open a Terminal (Mac/Linux) or Command Prompt (Windows) and change the directory (`cd`) to the lca-methodology-master folder on your computer. Example: `cd C:\Downloads\lca-methodology-master`.
 
-3. Create a new [conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) for the lca-methodology. Example: `conda create --name lca-methodology`.
+4. Create a new [conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) for the lca-methodology. Example: `conda create --name lca-methodology`.
 
-4. Activate the environment you created in step 3. See [Activating an enviroment](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment). Example `activate lca-methodology` for Windows or `source activate lca-methodology` for Mac/Linux.
+5. Activate the environment you created in step 3. See [Activating an enviroment](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment). Example `activate lca-methodology` for Windows or `source activate lca-methodology` for Mac/Linux.
 
-5. Install the software dependencies by typing `conda env create -f environment.yml` at the command prompt and press Enter.
+6. Install the software dependencies by typing `conda env create -f environment.yml` at the command prompt and press Enter.
 
 ## Run the analysis
 
