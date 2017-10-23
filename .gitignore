@@ -1,0 +1,4 @@
+data/
+downloads/
+!data/.gitkeep
+!downloads/
