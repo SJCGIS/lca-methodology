@@ -17,11 +17,10 @@ The [LCA.pynb](https://github.com/SJCGIS/lca-methodology/blob/master/LCA.ipynb) 
 
 3. Open a Terminal (Mac/Linux) or Command Prompt (Windows) and change the directory (`cd`) to the lca-methodology-master folder on your computer. Example: `cd C:\Downloads\lca-methodology-master`.
 
-4. Create a new [conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) for the lca-methodology. Example: `conda create --name lca-methodology`.
+4. Install the software dependencies by typing `conda env create -f environment.yml` at the command prompt and press Enter.
 
-5. Activate the environment you created in step 3. See [Activating an enviroment](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment). Example `activate lca-methodology` for Windows or `source activate lca-methodology` for Mac/Linux.
+5. Activate the `lca-methodology` environment. See [Activating an enviroment](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment). Example `activate lca-methodology` for Windows or `source activate lca-methodology` for Mac/Linux.
 
-6. Install the software dependencies by typing `conda env create -f environment.yml` at the command prompt and press Enter.
 
 ## Run the analysis
 
