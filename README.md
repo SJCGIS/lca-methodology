@@ -11,7 +11,7 @@ The [LCA.pynb](https://github.com/SJCGIS/lca-methodology/blob/master/LCA.ipynb) 
 
 ## Install
 
-1. Download and install [Anaconda](https://www.anaconda.com/download/) for Python version 3.6 or later.
+1. Download and install [Miniconda](https://conda.io/miniconda.html) for Python version 3.6 or later.
 
 2. Download the [project ZIP file](https://github.com/SJCGIS/lca-methodology/archive/master.zip) and extract it to a folder on your computer.
 
@@ -24,7 +24,7 @@ The [LCA.pynb](https://github.com/SJCGIS/lca-methodology/blob/master/LCA.ipynb) 
 
 ## Run the analysis
 
-Be sure you've activated the environment you created above then enter `jupyter notebook` from a Terminal or Command Prompt window in the lca-methodology-master directory. This should open a webpage to the current directory. Choose the LCA.pynb file to open the analysis.
+Be sure you've activated the `lca-methodology` per step 5 above then enter `jupyter notebook` from a Terminal or Command Prompt window in the lca-methodology-master directory. This should open a webpage to the current directory. Choose the LCA.pynb file to open the analysis.
 
 Run each step by holding Shift and pressing Enter or select "Run All Cells" from the Cells menu. Some cells may take a long time to complete. An asterisk (`*`) next to appears next to a cell that hasn't completed yet.
 
